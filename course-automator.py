@@ -3,6 +3,10 @@
 import csv
 import pdb
 
+#my first effort at using classes in a program
+#we ended up pursuing a path through this project through different technology, so I stopped working on it
+#but I've retained this for posterity
+
 class Record:
     'base class for course schedule records'
     recordCount = 0
